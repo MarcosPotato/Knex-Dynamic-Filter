@@ -1,0 +1,26 @@
+{
+  "name": "Knex-Dynamic-Filter",
+  "version": "1.0.0",
+  "description": "This is a dynamic filter with Knexjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosPotato/Knex-Dynamic-Filter.git"
+  },
+  "author": "Marcos Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosPotato/Knex-Dynamic-Filter/issues"
+  },
+  "homepage": "https://github.com/MarcosPotato/Knex-Dynamic-Filter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.6",
+    "nodemon": "^2.0.4",
+    "sqlite3": "^5.0.0",
+    "uuidv4": "^6.2.3"
+  }
+}
